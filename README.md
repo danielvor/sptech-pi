@@ -1,2 +1,2 @@
-# sptech-pi
-Introdução ao Github
+# Pesquisa e Inovação
+Repositório dedicado as aulas de Github do professor M. Almeida
